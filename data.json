@@ -1,27 +1,21 @@
 [
   {
-    "image":"https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+    "image":"https://res.cloudinary.com/db5m6ebjk/image/upload/v1759488492/WhatsApp_Image_2025-10-03_at_11.52.14_AM_xmyf1d.jpg",
     "title": "Bali Paradise Escape",
     "location": {
-      "city": "Bali",
-      "country": "Indonesia"
+      "city": "Pattaya | Bangkok",
+      "country": "Thailand"
     },
     "duration": {
       "days": 7,
       "nights": 6
     },
-    "price": 1299,
+    "price": "45,999.00",
     "category": "beach",
-    "description": "Experience the magic of Bali with pristine beaches, ancient temples, and lush rice terraces. This comprehensive tour includes...",
+    "description": "Including Flights Tiger Topia 🐯, Alcazar Show, Coral Island 🏝️ ,City Tour 🌃 ,Dinner Cruise 🚢 ,All meals 🥘 ,Transfer 🚃",
     "highlights": [
-      "Visit Tanah Lot Temple at sunset",
-      "Explore Ubud's monkey forest",
-      "Relax at Seminyak Beach"
+      
     ],
-    "action": {
-      "text": "Book Now",
-      "type": "button"
-    }
   }
 
 ]
