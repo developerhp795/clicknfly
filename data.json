@@ -1,27 +1,27 @@
 [
   {
     "image":"https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800"
-  "title": "Bali Paradise Escape",
-  "location": {
-    "city": "Bali",
-    "country": "Indonesia"
-  },
-  "duration": {
-    "days": 7,
-    "nights": 6
-  },
-  "price": 1299,
-  "cateogry": "beach",
-  "description": "Experience the magic of Bali with pristine beaches, ancient temples, and lush rice terraces. This comprehensive tour includes...",
-  "highlights": [
-    "Visit Tanah Lot Temple at sunset",
-    "Explore Ubud's monkey forest",
-    "Relax at Seminyak Beach"
-  ],
-  "action": {
-    "text": "Book Now",
-    "type": "button"
+    "title": "Bali Paradise Escape",
+    "location": {
+      "city": "Bali",
+      "country": "Indonesia"
+    },
+    "duration": {
+      "days": 7,
+      "nights": 6
+    },
+    "price": 1299,
+    "cateogry": "beach",
+    "description": "Experience the magic of Bali with pristine beaches, ancient temples, and lush rice terraces. This comprehensive tour includes...",
+    "highlights": [
+      "Visit Tanah Lot Temple at sunset",
+      "Explore Ubud's monkey forest",
+      "Relax at Seminyak Beach"
+    ],
+    "action": {
+      "text": "Book Now",
+      "type": "button"
+    }
   }
-}
 
 ]
